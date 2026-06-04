@@ -1,0 +1,59 @@
+{
+  "siteId": "beginner-dog-guide",
+  "generatedAt": "2026-06-04T11:36:16.096464",
+  "categories": [
+    "beginner-beginner-dog-guide",
+    "advanced-beginner-dog-guide",
+    "tips-beginner-dog-guide",
+    "history-beginner-dog-guide",
+    "trending-beginner-dog-guide",
+    "tutorials-beginner-dog-guide"
+  ],
+  "categoryData": [
+    {
+      "category_slug": "beginner-beginner-dog-guide",
+      "category_name": "Beginner Beginner Dog Guide"
+    },
+    {
+      "category_slug": "advanced-beginner-dog-guide",
+      "category_name": "Advanced Beginner Dog Guide"
+    },
+    {
+      "category_slug": "tips-beginner-dog-guide",
+      "category_name": "Beginner Dog Guide Tips"
+    },
+    {
+      "category_slug": "history-beginner-dog-guide",
+      "category_name": "Beginner Dog Guide History"
+    },
+    {
+      "category_slug": "trending-beginner-dog-guide",
+      "category_name": "Trending Beginner Dog Guide"
+    },
+    {
+      "category_slug": "tutorials-beginner-dog-guide",
+      "category_name": "Beginner Dog Guide Tutorials"
+    }
+  ],
+  "articleCount": 60,
+  "design": {
+    "site_id": "beginner-dog-guide",
+    "color_scheme": {
+      "name": "Warm Orange",
+      "primary": "#c2410c",
+      "secondary": "#f97316",
+      "accent": "#fdba74",
+      "background": "#fff7ed",
+      "text": "#7c2d12",
+      "light": "#ffedd5"
+    },
+    "font": {
+      "family": "Inter, system-ui, -apple-system, sans-serif",
+      "heading": "Inter",
+      "body": "Inter"
+    },
+    "layout": "topbar",
+    "site_title": "Beginner Dog Guide Central",
+    "articles_per_row": 2
+  }
+}

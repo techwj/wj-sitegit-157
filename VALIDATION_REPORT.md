@@ -1,0 +1,88 @@
+# Validation Report - beginner-dog-guide
+
+Generated: 2026-06-04T11:36:16.096255
+
+## Passed
+
+- ✓ Required file exists: privacy.html
+- ✓ Required file exists: cookie-policy.html
+- ✓ Required file exists: terms.html
+- ✓ Required file exists: ad-policy.html
+- ✓ Required file exists: contact.html
+- ✓ Required file exists: about.html
+- ✓ Required file exists: dmca.html
+- ✓ Required file exists: accessibility.html
+- ✓ Suggested file exists: data-request.html
+- ✓ Suggested file exists: do-not-sell.html
+- ✓ Suggested file exists: third-party-disclosure.html
+- ✓ Suggested file exists: disclaimer.html
+- ✓ Suggested file exists: external-link-policy.html
+- ✓ Suggested file exists: content-policy.html
+- ✓ Suggested file exists: security-policy.html
+- ✓ Suggested file exists: children-privacy.html
+- ✓ Suggested file exists: refund-policy.html
+- ✓ Suggested file exists: faq.html
+- ✓ Suggested file exists: press-kit.html
+- ✓ Suggested file exists: feedback.html
+- ✓ Suggested file exists: code-of-conduct.html
+- ✓ Article word count OK: The Ultimate Guide to Beginner Beginner Dog Guide
+- ✓ Article word count OK: Beginner Beginner Dog Guide: Everything You Need to Know
+- ✓ Article word count OK: Understanding Beginner Beginner Dog Guide
+- ✓ Article word count OK: Beginner Beginner Dog Guide Tips and Best Practices
+- ✓ Article word count OK: The History of Beginner Beginner Dog Guide
+- ✓ Article word count OK: Beginner Beginner Dog Guide in 2026: Current Trends
+- ✓ Article word count OK: Future of Beginner Beginner Dog Guide
+- ✓ Article word count OK: Common Mistakes in Beginner Beginner Dog Guide
+- ✓ Article word count OK: Beginner Beginner Dog Guide for Beginners
+- ✓ Article word count OK: Advanced Beginner Beginner Dog Guide Techniques
+- ✓ Article word count OK: The Ultimate Guide to Advanced Beginner Dog Guide
+- ✓ Article word count OK: Advanced Beginner Dog Guide: Everything You Need to Know
+- ✓ Article word count OK: Understanding Advanced Beginner Dog Guide
+- ✓ Article word count OK: Advanced Beginner Dog Guide Tips and Best Practices
+- ✓ Article word count OK: The History of Advanced Beginner Dog Guide
+- ✓ Article word count OK: Advanced Beginner Dog Guide in 2026: Current Trends
+- ✓ Article word count OK: Future of Advanced Beginner Dog Guide
+- ✓ Article word count OK: Common Mistakes in Advanced Beginner Dog Guide
+- ✓ Article word count OK: Advanced Beginner Dog Guide for Beginners
+- ✓ Article word count OK: Advanced Advanced Beginner Dog Guide Techniques
+- ✓ Article word count OK: The Ultimate Guide to Beginner Dog Guide Tips
+- ✓ Article word count OK: Beginner Dog Guide Tips: Everything You Need to Know
+- ✓ Article word count OK: Understanding Beginner Dog Guide Tips
+- ✓ Article word count OK: Beginner Dog Guide Tips Tips and Best Practices
+- ✓ Article word count OK: The History of Beginner Dog Guide Tips
+- ✓ Article word count OK: Beginner Dog Guide Tips in 2026: Current Trends
+- ✓ Article word count OK: Future of Beginner Dog Guide Tips
+- ✓ Article word count OK: Common Mistakes in Beginner Dog Guide Tips
+- ✓ Article word count OK: Beginner Dog Guide Tips for Beginners
+- ✓ Article word count OK: Advanced Beginner Dog Guide Tips Techniques
+- ✓ Article word count OK: The Ultimate Guide to Beginner Dog Guide History
+- ✓ Article word count OK: Beginner Dog Guide History: Everything You Need to Know
+- ✓ Article word count OK: Understanding Beginner Dog Guide History
+- ✓ Article word count OK: Beginner Dog Guide History Tips and Best Practices
+- ✓ Article word count OK: The History of Beginner Dog Guide History
+- ✓ Article word count OK: Beginner Dog Guide History in 2026: Current Trends
+- ✓ Article word count OK: Future of Beginner Dog Guide History
+- ✓ Article word count OK: Common Mistakes in Beginner Dog Guide History
+- ✓ Article word count OK: Beginner Dog Guide History for Beginners
+- ✓ Article word count OK: Advanced Beginner Dog Guide History Techniques
+- ✓ Article word count OK: The Ultimate Guide to Trending Beginner Dog Guide
+- ✓ Article word count OK: Trending Beginner Dog Guide: Everything You Need to Know
+- ✓ Article word count OK: Understanding Trending Beginner Dog Guide
+- ✓ Article word count OK: Trending Beginner Dog Guide Tips and Best Practices
+- ✓ Article word count OK: The History of Trending Beginner Dog Guide
+- ✓ Article word count OK: Trending Beginner Dog Guide in 2026: Current Trends
+- ✓ Article word count OK: Future of Trending Beginner Dog Guide
+- ✓ Article word count OK: Common Mistakes in Trending Beginner Dog Guide
+- ✓ Article word count OK: Trending Beginner Dog Guide for Beginners
+- ✓ Article word count OK: Advanced Trending Beginner Dog Guide Techniques
+- ✓ Article word count OK: The Ultimate Guide to Beginner Dog Guide Tutorials
+- ✓ Article word count OK: Beginner Dog Guide Tutorials: Everything You Need to Know
+- ✓ Article word count OK: Understanding Beginner Dog Guide Tutorials
+- ✓ Article word count OK: Beginner Dog Guide Tutorials Tips and Best Practices
+- ✓ Article word count OK: The History of Beginner Dog Guide Tutorials
+- ✓ Article word count OK: Beginner Dog Guide Tutorials in 2026: Current Trends
+- ✓ Article word count OK: Future of Beginner Dog Guide Tutorials
+- ✓ Article word count OK: Common Mistakes in Beginner Dog Guide Tutorials
+- ✓ Article word count OK: Beginner Dog Guide Tutorials for Beginners
+- ✓ Article word count OK: Advanced Beginner Dog Guide Tutorials Techniques
+- ✓ Ad configuration validated
